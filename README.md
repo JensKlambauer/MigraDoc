@@ -1,4 +1,4 @@
-# Creating PDF files in netstandard2.0 using PDFsharp/MigraDoc 1.50 (stable) 
+# Creating PDF files using PDFsharp/MigraDoc 1.50 (stable) - netstandard2.0 libs for .NET Core > 2.0
 
 ## Links 
 
